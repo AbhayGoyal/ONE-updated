@@ -1,0 +1,20 @@
+Buffer Occupancy for scenario CustomRouter_2_3_14400_dense_20M_transmit_50_512
+sim_time: 14400.0000
+created: 845
+started: 151814
+relayed: 151363
+aborted: 440
+dropped: 116712
+removed: 29487
+delivered: 741
+delivery_prob: 0.8769
+response_prob: 0.0000
+overhead_ratio: 203.2686
+latency_avg: 1192.8016
+latency_med: 790.0000
+hopcount_avg: 5.5398
+hopcount_med: 5
+buffertime_avg: 417.5437
+buffertime_med: 31.0000
+rtt_avg: NaN
+rtt_med: NaN

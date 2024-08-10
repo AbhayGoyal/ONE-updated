@@ -1,0 +1,20 @@
+Message stats for scenario CustomRouter_2_3_3600_dense_40M_transmit_50_512
+sim_time: 3600.0000
+created: 211
+started: 15229
+relayed: 15184
+aborted: 33
+dropped: 1482
+removed: 6125
+delivered: 150
+delivery_prob: 0.7109
+response_prob: 0.0000
+overhead_ratio: 100.2267
+latency_avg: 613.6200
+latency_med: 439.0000
+hopcount_avg: 5.3200
+hopcount_med: 5
+buffertime_avg: 861.1191
+buffertime_med: 573.0000
+rtt_avg: NaN
+rtt_med: NaN
